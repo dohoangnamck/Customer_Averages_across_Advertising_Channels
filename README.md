@@ -1,5 +1,5 @@
-# CUSTOMER_AVERAGES_ACROSS_ADVERTISING_CHANNELS
-DETERMINE CUSTOMER AVERAGES ACROSS ADVERTISING CHANNELS USING HYPOTHESIS TESTING
+# Customer_Averages_across_Advertising_Channels
+Determine customers averages across advertising channels using hypothesis testing
 
 ## CASE 
 An e-commerce company makes advertising on 3 platforms YouTube, Instagram, Facebook. However, does the director care about the average number of users obtained through different channels? So, the number of users interacting through the channels recorded over 15 days is as follows:
