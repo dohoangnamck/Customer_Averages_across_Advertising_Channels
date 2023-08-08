@@ -2,9 +2,9 @@
 Determine Customer Averages across Advertising Channels using Hypothesis testing
 
 ## CASE 
-An e-commerce company makes advertising on 3 platforms YouTube, Instagram, Facebook. However, does the director care about the average number of users obtained through different channels? So, the number of users interacting through the channels recorded over 15 days is as follows:
+An e-commerce company makes advertising on 3 platforms YouTube, Instagram, and Facebook. However, does the director care about the average number of users obtained through different channels? So, the number of users interacting through the channels recorded over 15 days is as follows:
 
-Based on the data collected, determine whether there is a difference in customers averages across advertising channels using hypothesis testing? with significance alpha=5%
+Based on the data collected, determine whether there is a difference in customer averages across advertising channels using hypothesis testing, with significance alpha=5%
 
 To determine if there is a difference in average customers across advertising channels using a hypothesis test, follow these steps:
 
